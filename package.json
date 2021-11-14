@@ -1,0 +1,22 @@
+{
+  "name": "education",
+  "version": "1.0.0",
+  "description": "проект-свалка: попытки разобраться с js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolt195/education.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolt195/education/issues"
+  },
+  "homepage": "https://github.com/kolt195/education#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
